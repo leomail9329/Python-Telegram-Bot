@@ -1,0 +1,16 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[user]
+	name = hightop0924
+	email = hightop.dev.hk@gmail.com
+[remote "origin"]
+	url = https://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@github.com/hightop0924/Python-Telegram-Bot.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main
